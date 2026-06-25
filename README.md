@@ -68,7 +68,7 @@ Currently pursuing a Bachelor's degree in Computer & Electrical Engineering whil
 
 * Email: [xhyliqiidren@gmail.com](mailto:xhyliqiidren@gmail.com)
 * LinkedIn: https://linkedin.com/in/dren-xhyliqi
-* GitHub: https://github.com/drenxhyliqi
+* Portfolio: [https://github.com/drenxhyliqi](https://drenxhyliqi.site/)
 
 ---
 
