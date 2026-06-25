@@ -1,8 +1,10 @@
+
 <!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:f59e0b&height=250&section=header&text=Dren%20Xhyliqi&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer&descAlignY=55" />
 </p> -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,50:111111,100:B8860B&height=250&section=header&text=Dren%20Xhyliqi&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer&descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,70:0d1117,100:d4a017&height=250&section=header&text=Dren%20Xhyliqi&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer&descAlignY=55" />
 </p>
 
 ### Full-Stack Developer | Software Engineering Student | Building Scalable Web Applications
