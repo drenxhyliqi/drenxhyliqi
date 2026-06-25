@@ -18,6 +18,10 @@ Currently pursuing a Bachelor's degree in Computer & Electrical Engineering whil
 
 ---
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:38bdf8&height=250&section=header&text=Dren%20Xhyliqi&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer&descAlignY=55" />
+</p>
+
 ## 🛠️ Tech Stack
 
 ### Frontend
