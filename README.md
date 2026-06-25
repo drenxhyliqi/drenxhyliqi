@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f59e0b,100:fbbf24&height=250&section=header&text=Dren%20Xhyliqi&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer&descAlignY=55" />
 </p>
 
-## Full-Stack Developer | Software Engineering Student | Building Scalable Web Applications
+### Full-Stack Developer | Software Engineering Student | Building Scalable Web Applications
 
 I'm a Full-Stack Developer from Kosovo 🇽🇰 passionate about building modern, performant, and scalable web applications.
 
