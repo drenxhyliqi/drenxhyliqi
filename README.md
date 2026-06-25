@@ -1,16 +1,132 @@
-## Hi there 👋
+# Hi there 👋, I'm Dren Xhyliqi
 
-<!--
-**drenxhyliqi/drenxhyliqi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full-Stack Developer | Software Engineering Student | Building Scalable Web Applications
 
-Here are some ideas to get you started:
+I'm a Full-Stack Developer from Kosovo 🇽🇰 passionate about building modern, performant, and scalable web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently pursuing a Bachelor's degree in Computer & Electrical Engineering while working on real-world projects involving healthcare systems, audience engagement platforms, and enterprise software solutions.
+
+---
+
+## 🚀 About Me
+
+* 🎓 Computer & Electrical Engineering Student
+* 💻 Full-Stack Developer
+* 🌱 Constantly learning new technologies and software engineering practices
+* ⚡ Passionate about clean architecture, scalable systems, and great user experiences
+* 🤝 Open to collaborations and exciting opportunities
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge\&logo=tailwindcss)
+
+### Backend
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge\&logo=laravel)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
+
+### Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis)
+
+### DevOps & Tools
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma)
+
+---
+
+## 🌟 Featured Projects
+
+### 🎤 BeActive
+
+Real-time audience engagement platform designed for conferences, workshops, and events.
+
+**Features**
+
+* Live polls
+* Anonymous Q&A
+* Quizzes & leaderboards
+* QR-based participant access
+* Real-time communication
+
+---
+
+### 🏥 MediSlot
+
+Healthcare appointment management platform.
+
+**Highlights**
+
+* Appointment scheduling
+* Real-time availability checking
+* AI-assisted booking workflows
+* Medical visit summaries
+* Secure authentication
+
+---
+
+### 🏭 ProdFlow
+
+Enterprise manufacturing management system.
+
+**Modules**
+
+* Production planning
+* Customer & supplier management
+* Workforce tracking
+* Business analytics
+* AI-powered reporting & chatbot
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=drenxhyliqi&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drenxhyliqi&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=drenxhyliqi&theme=tokyonight" />
+</p>
+
+---
+
+## 🌍 Connect With Me
+
+* 📧 [xhyliqiidren@gmail.com](mailto:xhyliqiidren@gmail.com)
+* 💼 LinkedIn: https://linkedin.com/in/dren-xhyliqi
+* 💻 GitHub: https://github.com/drenxhyliqi
+
+---
+
+## 💡 Current Focus
+
+```txt
+Building scalable SaaS applications
+Exploring AI integrations
+Improving system design skills
+Learning cloud-native technologies
+Contributing to impactful products
+```
+
+> "First, solve the problem. Then, write the code."
