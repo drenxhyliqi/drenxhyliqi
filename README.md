@@ -50,10 +50,7 @@ Currently pursuing a Bachelor's degree in Computer & Electrical Engineering whil
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=drenxhyliqi&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drenxhyliqi&layout=compact&theme=tokyonight" />
-</p>
+[![Dren's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=drenxhyliqi&theme=tokyo-night)](https://github.com/drenxhyliqi)
 
 ---
 
