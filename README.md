@@ -47,52 +47,6 @@ Currently pursuing a Bachelor's degree in Computer & Electrical Engineering whil
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
----
-
-## 🌟 Featured Projects
-
-### 🎤 BeActive
-
-Real-time audience engagement platform designed for conferences, workshops, and events.
-
-**Features**
-
-* Live polls
-* Anonymous Q&A
-* Quizzes & leaderboards
-* QR-based participant access
-* Real-time communication
-
----
-
-### 🏥 MediSlot
-
-Healthcare appointment management platform.
-
-**Highlights**
-
-* Appointment scheduling
-* Real-time availability checking
-* AI-assisted booking workflows
-* Medical visit summaries
-* Secure authentication
-
----
-
-### 🏭 ProdFlow
-
-Enterprise manufacturing management system.
-
-**Modules**
-
-* Production planning
-* Customer & supplier management
-* Workforce tracking
-* Business analytics
-* AI-powered reporting & chatbot
-
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
