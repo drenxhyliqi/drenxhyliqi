@@ -50,12 +50,6 @@ Currently pursuing a Bachelor's degree in Computer & Electrical Engineering whil
 
 ---
 
-## GitHub Activity
-
-[![Dren's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=drenxhyliqi\&theme=tokyo-night)](https://github.com/drenxhyliqi)
-
----
-
 ## GitHub Streak
 
 <p align="center">
