@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f59e0b,100:fbbf24&height=250&section=header&text=Dren%20Xhyliqi&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer&descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f8dd5c,100:f8dd5c&height=250&section=header&text=Dren%20Xhyliqi&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer&descAlignY=55" />
 </p>
 
 ### Full-Stack Developer | Software Engineering Student | Building Scalable Web Applications
