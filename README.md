@@ -2,11 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f8dd5c,100:f8dd5c&height=250&section=header&text=Dren%20Xhyliqi&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer&descAlignY=55" />
 </p>
 
-### Full-Stack Developer | Software Engineering Student | Building Scalable Web Applications
+### Full-Stack Developer | Software Engineering Student 
 
-I'm a Full-Stack Developer from Kosovo 🇽🇰 passionate about building modern, performant, and scalable web applications.
+I'm a Full-Stack Developer from Kosovo | passionate about building modern, performant, and scalable web applications.
 
-Currently pursuing a Bachelor's degree in Computer & Electrical Engineering while working on real-world projects involving healthcare systems, audience engagement platforms, and enterprise software solutions.
+Currently pursuing a Bachelor's degree in Computer & Electrical Engineering while working on real-world projects and enterprise software solutions.
 
 ---
 
@@ -63,18 +63,4 @@ Currently pursuing a Bachelor's degree in Computer & Electrical Engineering whil
 * Email: [xhyliqiidren@gmail.com](mailto:xhyliqiidren@gmail.com)
 * LinkedIn: https://linkedin.com/in/dren-xhyliqi
 * Portfolio: [https://github.com/drenxhyliqi](https://drenxhyliqi.site/)
-
----
-
-## Current Focus
-
-```txt
-Building scalable SaaS applications
-Exploring AI integrations
-Improving system design skills
-Learning cloud-native technologies
-Contributing to impactful products
-```
-
-> "First, solve the problem. Then, write the code."
 
